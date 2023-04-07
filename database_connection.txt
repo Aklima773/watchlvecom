@@ -1,0 +1,6 @@
+username:u318076185_watchVue
+databasename:u318076185_watchVue
+password:2TX7a[xXw?[p
+
+
+subdomain: watchlvecom
